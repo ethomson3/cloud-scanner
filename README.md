@@ -1,6 +1,6 @@
 # Cloud Scanner
 
-[![Build Status](https://travis-ci.com/Microsoft/cloud-scanner.svg?token=nXyWFYxRu6tVxUMJAuJr&branch=master)](https://travis-ci.com/Microsoft/cloud-scanner)
+[![Build Status](https://dev.azure.com/ethomson/cloud-scanner/_apis/build/status/ethomson.cloud-scanner-build?branchName=master)](https://dev.azure.com/ethomson/cloud-scanner/_build/latest?definitionId=72&branchName=master)
 [![PyPI](https://img.shields.io/pypi/v/cloud-scanner.svg)](https://pypi.org/project/cloud-scanner/)
 
 **Note: This library was developed by the Microsoft Commercial Software Engineering team as a tool for the Open Source community to use and contribute to as they see fit. Use at your own risk!**
